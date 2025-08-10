@@ -15,12 +15,8 @@ class Solution {
                 deque.offer(s.charAt(i));
             }
         }
-
-        if (deque.isEmpty()) {
-            return true;
-        } 
-
-        return false;
+        
+        return deque.isEmpty();
     }
 
     public boolean checkMatching(char left, char right) {
