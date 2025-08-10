@@ -5,31 +5,14 @@ class Solution {
         Deque<Character> deque = new LinkedList<>();
 
         for(int i=0; i<s.length(); i++) {
-            switch(s.charAt(i)) {
-                case ')':
-                    if (!deque.isEmpty() && deque.getLast() == '(') { 
-                        deque.pollLast(); 
-                    } else {
-                        return false;
-                    }
-                    break;
-                case ']':
-                    if (!deque.isEmpty() && deque.getLast() == '[') { 
-                        deque.pollLast(); 
-                    } else {
-                        return false;
-                    }
-                    break; 
-                case '}':
-                    if (!deque.isEmpty() && deque.getLast() == '{') { 
-                        deque.pollLast(); 
-                    } else {
-                        return false;
-                    }
-                    break; 
-                default:
-                    deque.offer(s.charAt(i));
-                    break;
+            if (!deque.isEmpty() && (s.charAt(i) == ')' || s.charAt(i) == '}' || s.charAt(i) == ']')) {
+                if (checkMatching(deque.getLast(), s.charAt(i))) {
+                    deque.pollLast();
+                } else {
+                    return false;
+                }
+            } else {
+                deque.offer(s.charAt(i));
             }
         }
 
@@ -38,5 +21,11 @@ class Solution {
         } 
 
         return false;
+    }
+
+    public boolean checkMatching(char left, char right) {
+        return ((left == '(' && right == ')') ||
+                (left == '{' && right == '}') ||
+                (left == '[' && right == ']')) ? true : false;
     }
 }
