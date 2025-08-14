@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/rosieisor/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rosieisor/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/rosieisor/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rosieisor/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rosieisor/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rosieisor/LeetCode/tree/master/0739-daily-temperatures) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rosieisor/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -54,4 +56,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rosieisor/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/rosieisor/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
