@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/rosieisor/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rosieisor/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/rosieisor/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0859-design-circular-deque](https://github.com/rosieisor/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/rosieisor/LeetCode/tree/master/0860-design-circular-queue) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rosieisor/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rosieisor/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/rosieisor/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/rosieisor/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/rosieisor/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rosieisor/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rosieisor/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/rosieisor/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/rosieisor/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/rosieisor/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Array
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rosieisor/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rosieisor/LeetCode/tree/master/0739-daily-temperatures) |
+| [0859-design-circular-deque](https://github.com/rosieisor/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/rosieisor/LeetCode/tree/master/0860-design-circular-queue) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rosieisor/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Hash Table
