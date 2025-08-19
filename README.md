@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rosieisor/LeetCode/tree/master/0002-add-two-numbers) |
+| [1014-k-closest-points-to-origin](https://github.com/rosieisor/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/rosieisor/LeetCode/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/rosieisor/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/rosieisor/LeetCode/tree/master/0860-design-circular-queue) |
+| [1014-k-closest-points-to-origin](https://github.com/rosieisor/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rosieisor/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -83,12 +85,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rosieisor/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1014-k-closest-points-to-origin](https://github.com/rosieisor/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rosieisor/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1014-k-closest-points-to-origin](https://github.com/rosieisor/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rosieisor/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/rosieisor/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Sorting
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/rosieisor/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/rosieisor/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
