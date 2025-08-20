@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rosieisor/LeetCode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/rosieisor/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0782-jewels-and-stones](https://github.com/rosieisor/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rosieisor/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0782-jewels-and-stones](https://github.com/rosieisor/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/rosieisor/LeetCode/tree/master/0817-design-hashmap) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rosieisor/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Monotonic Stack
