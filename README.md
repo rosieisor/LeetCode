@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/rosieisor/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/rosieisor/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/rosieisor/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0817-design-hashmap](https://github.com/rosieisor/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/rosieisor/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/rosieisor/LeetCode/tree/master/0860-design-circular-queue) |
 ## Math
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rosieisor/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rosieisor/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0817-design-hashmap](https://github.com/rosieisor/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/rosieisor/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/rosieisor/LeetCode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/rosieisor/LeetCode/tree/master/0969-number-of-recent-calls) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rosieisor/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/rosieisor/LeetCode/tree/master/0739-daily-temperatures) |
+| [0817-design-hashmap](https://github.com/rosieisor/LeetCode/tree/master/0817-design-hashmap) |
 | [0859-design-circular-deque](https://github.com/rosieisor/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/rosieisor/LeetCode/tree/master/0860-design-circular-queue) |
 | [1014-k-closest-points-to-origin](https://github.com/rosieisor/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rosieisor/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0817-design-hashmap](https://github.com/rosieisor/LeetCode/tree/master/0817-design-hashmap) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rosieisor/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Monotonic Stack
 |  |
@@ -107,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/rosieisor/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/rosieisor/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
