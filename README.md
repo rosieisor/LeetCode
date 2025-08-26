@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rosieisor/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/rosieisor/LeetCode/tree/master/0013-roman-to-integer) |
 | [1014-k-closest-points-to-origin](https://github.com/rosieisor/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rosieisor/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rosieisor/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/rosieisor/LeetCode/tree/master/0020-valid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/rosieisor/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0782-jewels-and-stones](https://github.com/rosieisor/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rosieisor/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rosieisor/LeetCode/tree/master/0013-roman-to-integer) |
 | [0347-top-k-frequent-elements](https://github.com/rosieisor/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/rosieisor/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/rosieisor/LeetCode/tree/master/0782-jewels-and-stones) |
