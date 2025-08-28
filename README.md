@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/rosieisor/LeetCode/tree/master/0046-permutations) |
 | [0200-number-of-islands](https://github.com/rosieisor/LeetCode/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/rosieisor/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/rosieisor/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -163,4 +164,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rosieisor/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/rosieisor/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
