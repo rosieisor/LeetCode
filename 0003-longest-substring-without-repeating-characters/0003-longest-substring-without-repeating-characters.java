@@ -8,10 +8,6 @@ class Solution {
         int right = 0;
         char[] arr = s.toCharArray();
 
-        if (arr.length == 1) {
-            return 1;
-        }
-
         while(right < s.length()) {
             if (map.get(arr[right]) == null) {
                 map.put(arr[right], 1);
