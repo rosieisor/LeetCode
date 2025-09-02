@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rosieisor/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rosieisor/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/rosieisor/LeetCode/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/rosieisor/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/rosieisor/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0782-jewels-and-stones](https://github.com/rosieisor/LeetCode/tree/master/0782-jewels-and-stones) |
 ## Stack
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/rosieisor/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rosieisor/LeetCode/tree/master/0046-permutations) |
+| [0179-largest-number](https://github.com/rosieisor/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/rosieisor/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rosieisor/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/rosieisor/LeetCode/tree/master/0216-combination-sum-iii) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/rosieisor/LeetCode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/rosieisor/LeetCode/tree/master/0316-remove-duplicate-letters) |
 ## Divide and Conquer
 |  |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/rosieisor/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rosieisor/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rosieisor/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/rosieisor/LeetCode/tree/master/1014-k-closest-points-to-origin) |
