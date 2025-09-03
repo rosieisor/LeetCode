@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/rosieisor/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rosieisor/LeetCode/tree/master/0046-permutations) |
+| [0136-single-number](https://github.com/rosieisor/LeetCode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/rosieisor/LeetCode/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/rosieisor/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rosieisor/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/rosieisor/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/rosieisor/LeetCode/tree/master/0077-combinations) |
 | [0216-combination-sum-iii](https://github.com/rosieisor/LeetCode/tree/master/0216-combination-sum-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/rosieisor/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
