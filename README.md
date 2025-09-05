@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/rosieisor/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rosieisor/LeetCode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/rosieisor/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rosieisor/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rosieisor/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rosieisor/LeetCode/tree/master/0179-largest-number) |
@@ -184,9 +185,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/rosieisor/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rosieisor/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/rosieisor/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/rosieisor/LeetCode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/rosieisor/LeetCode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rosieisor/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rosieisor/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
