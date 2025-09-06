@@ -1,27 +1,27 @@
 class Solution {
-
-    static int[][] move = {{-1, 0}, {0, 1}, {1, 0}, {0, -1}};
+    int[][] move = {{0, -1}, {-1, 0}, {0, 1}, {1, 0}};
+    boolean[][] visited;
 
     public int numIslands(char[][] grid) {
-        boolean[][] visited = new boolean[grid.length][grid[0].length];
+        visited = new boolean[grid.length][grid[0].length];
 
-        int result = 0;
+        int count = 0;
+
         for(int i=0; i<grid.length; i++) {
             for(int j=0; j<grid[i].length; j++) {
                 if (!visited[i][j] && grid[i][j] == '1') {
-                    bfs(i, j, grid, visited);
-                    result++;
+                    bfs(i, j, grid);
+                    count++;
                 }
             }
         }
 
-        return result;    
+        return count;
     }
 
-    void bfs(int x, int y, char[][] grid, boolean[][] visited) {
+    public void bfs(int x, int y, char[][] grid) {
         Queue<int[]> queue = new LinkedList<>();
-
-        queue.offer(new int[]{x, y});
+        queue.add(new int[]{x, y});
         visited[x][y] = true;
 
         while(!queue.isEmpty()) {
@@ -31,11 +31,13 @@ class Solution {
                 int mx = current[0] + move[i][0];
                 int my = current[1] + move[i][1];
 
-                if (mx < grid.length && my < grid[0].length && mx > -1 && my > -1 && grid[mx][my] == '1' && !visited[mx][my]) {
+                if (mx > -1 && my > -1 && mx < grid.length && my < grid[0].length && 
+                        !visited[mx][my] && grid[mx][my] == '1') {
                     queue.offer(new int[]{mx, my});
                     visited[mx][my] = true;
-                }
+                  }
             }
         }
+
     }
 }
