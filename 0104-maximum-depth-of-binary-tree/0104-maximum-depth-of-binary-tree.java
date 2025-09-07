@@ -31,12 +31,9 @@ class Solution {
 
     public void postOrder(int depth, TreeNode root) {
         if (root == null) {
-            System.out.println(" " + depth);
             max = Math.max(depth - 1, max);
             return;
         }
-        System.out.println("if전 " + root.val + " : " + depth);
-        
 
         postOrder(depth + 1, root.left);
         postOrder(depth + 1, root.right);
