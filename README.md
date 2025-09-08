@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/rosieisor/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/rosieisor/LeetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/rosieisor/LeetCode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/rosieisor/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rosieisor/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rosieisor/LeetCode/tree/master/0169-majority-element) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rosieisor/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/rosieisor/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rosieisor/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rosieisor/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rosieisor/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rosieisor/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rosieisor/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
