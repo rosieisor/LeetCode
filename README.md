@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/rosieisor/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rosieisor/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/rosieisor/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0744-network-delay-time](https://github.com/rosieisor/LeetCode/tree/master/0744-network-delay-time) |
 | [1014-k-closest-points-to-origin](https://github.com/rosieisor/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
@@ -178,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/rosieisor/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rosieisor/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/rosieisor/LeetCode/tree/master/0200-number-of-islands) |
+| [0744-network-delay-time](https://github.com/rosieisor/LeetCode/tree/master/0744-network-delay-time) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rosieisor/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/rosieisor/LeetCode/tree/master/0200-number-of-islands) |
+| [0744-network-delay-time](https://github.com/rosieisor/LeetCode/tree/master/0744-network-delay-time) |
 ## Union Find
 |  |
 | ------- |
@@ -231,4 +234,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rosieisor/LeetCode/tree/master/0455-assign-cookies) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/rosieisor/LeetCode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/rosieisor/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
