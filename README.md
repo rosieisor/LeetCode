@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rosieisor/LeetCode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/rosieisor/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rosieisor/LeetCode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/rosieisor/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/rosieisor/LeetCode/tree/master/1013-fibonacci-number) |
